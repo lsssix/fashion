@@ -1,0 +1,44 @@
+.shopping_bar{
+	margin-top: 60px;
+}
+.total{
+	letter-spacing: 0pt;
+	font-weight: 500;
+	color: #121212;
+	float: left;
+	width: 100px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px
+}
+.total em{
+	font-size: 18px;
+	margin-right: 5px;	
+	font-style: normal;
+}
+.listPage{
+	padding: 30px 12px;
+	clear: both;
+	text-align: center;
+	font-size: 14px;
+	vertical-align: top;
+}
+.listPage .current{
+	background: black;
+	border: 1px solid #999;
+	color: #fff;
+}
+.listPage span,.listPage a{
+	display: inline-block;
+	height: 22px;
+	line-height: 22px;
+	margin: 5px 3px 0 3px;
+	overflow: hidden;
+	vertical-align: top;
+	width: 22px;
+	text-align: center;
+	border: 1px solid #d0d0d0;
+}
+.listPage a{
+	color: #999;
+}
